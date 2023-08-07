@@ -1,0 +1,1 @@
+# Hackintosh_for_R7000P_2021A_5800H
