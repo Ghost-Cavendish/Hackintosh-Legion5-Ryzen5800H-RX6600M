@@ -2,7 +2,7 @@
 
 
 
-This EFI aims to work with `macos sonoma`
+This EFI aims to work with `macos sonoma beta4`
 
 
 ![截屏2023-08-07 23 03 09](https://github.com/Ghost-Cavendish/Hackintosh_for_R7000P_2021A_5800H/assets/56330712/a6d82d75-fa02-49ea-8748-5a100257d3cd)
