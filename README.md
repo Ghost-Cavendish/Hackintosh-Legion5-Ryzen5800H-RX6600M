@@ -111,23 +111,3 @@ Done with [SSDTTime](https://github.com/corpnewt/SSDTTime) in Windows 11
 | [SSDT-USBX](https://github.com/corpnewt/SSDTTime) | Enables USB Power Management |
 | [SSDT-XOSI](https://github.com/corpnewt/SSDTTime) | Spoof macOS to Windows for some ACPI features |
 
-## Credits
-
-*   [OC-Little-Translated](https://github.com/5T33Z0/OC-Little-Translated) Guides.
-*   [AMD-OSX](https://forum.amd-osx.com/) Forum and the [dedicated Thread](https://forum.amd-osx.com/threads/amd-rayon-r7-5800h-install-monterey-kernel-panic.2725) users.
-*   ExtremeXT for help, corrections, my first EFI and git README info/references.
-*   zxc2689963 for EFI references.
-*   [Dortania](https://dortania.github.io/OpenCore-Install-Guide/) for the guides.
-*   [Apple](https://www.apple.com/) for macOS.
-*   [Acidanthera](https://github.com/acidanthera) for OpenCore and most Kexts.
-*   Anyone else that helped to develop and improve hackintoshing.
-
-## Screenshots
-
-![screen4](https://github.com/kalkmann/Legion-5800H-Hackintosh/assets/8891448/03994a13-7373-4073-98da-f48412df28c3)
-
-![screen3](https://github.com/kalkmann/Legion-5800H-Hackintosh/assets/8891448/ce5f9380-3249-416d-8e78-2e6e9e7f6803)
-
-![screen2](https://github.com/kalkmann/Legion-5800H-Hackintosh/assets/8891448/0340a459-ccde-4dab-ae11-848c5fc8acb7)
-
-![screen1](https://github.com/kalkmann/Legion-5800H-Hackintosh/assets/8891448/3b6a0492-2835-4231-bf29-ccf1c918bde5)
