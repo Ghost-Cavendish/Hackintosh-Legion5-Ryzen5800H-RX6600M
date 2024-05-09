@@ -1,7 +1,7 @@
 <p align="center">
  <img width="129px" src="https://rallybr.com.br/logo-hacklegion.png" align="center" />
  <h2 align="center">MacOS on Lenovo Legion 5  Ryzen 5800H &amp; Radeon RX 6600M 🇧🇷</h2>
- <p align="center">Lenovo Legion 5 Type 82NW Opencore EFI and some info for running MacOS Sonoma. Probably compatible with R70002021A 6600M variant.</p>
+ <p align="center">Lenovo Legion 5  Opencore EFI and some info for running MacOS Sonoma. Probably compatible with R70002021A 6600M variant.</p>
 </p>
 <p align="center"><img src="https://img.shields.io/badge/Bios-GKCN36WW-blue?logo=lenovo&amp;logoColor=%23fff" alt="" />&nbsp;<img src="https://img.shields.io/badge/Opencore-1.0.0 DEV-black" alt="" />&nbsp;<img src="https://img.shields.io/badge/MacOS-Sonoma%2014.4-green?logo=apple&amp;logoColor=%23fff" alt="" /></p>
 <p align="center"><img src="https://github.com/kalkmann/Legion-5800H-Hackintosh/assets/8891448/78e72771-1634-4943-8756-80ef7500d237" alt="" /></p>
@@ -25,7 +25,7 @@ _Information available only for possible references. I do not recommend followin
 
 | Item  | Info  |
 | ------------ | ------------ |
-| Model  | Legion 5 Type 82NW  |
+| Model  | Legion 5   |
 | Bios Version  | G9CN36WW  |
 | CPU  |  AMD Ryzen™ 5 5800H Processor |
 |  DGPU | AMD Radeon RX 6600M 8GB  |
